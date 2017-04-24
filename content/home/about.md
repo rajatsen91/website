@@ -37,4 +37,4 @@ I am a 4th year PhD. student in WNCG, UT Austin. I am advised by [Dr. Sanjay Sha
 
 I received my Bachelors degree in ECE, IIT Kharagpur in 2013.  I have spent most of my childhood in Durgapur and Kolkata, West Bengal, India. 
 
-My research interests include online learning (especially Multi-Armed Bandit), scheduling in queueing systems, causality, recommendation systems and social networks. I like to work on real-world problems that allow rigorous theoretical analysis.
+My research interests include online learning (especially Multi-Armed Bandit probems),  causality, learning in queueing systems, recommendation systems and social networks. I like to work on real-world problems that allow rigorous theoretical analysis.
