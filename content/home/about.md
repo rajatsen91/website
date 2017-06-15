@@ -21,7 +21,7 @@ weight = 1
 [[education.courses]]
   course = "Currently Pursuing PhD in Machine Learning"
   institution = "The University of Texas ast Austin"
-  year = 2017
+  year = 2018
 
 [[education.courses]]
   course = "B.Tech. in Electronics and Electrical Communications Engineering"
@@ -37,4 +37,4 @@ I am a 4th year PhD. student in WNCG, UT Austin. I am advised by [Dr. Sanjay Sha
 
 I received my Bachelors degree in ECE, IIT Kharagpur in 2013.  I have spent most of my childhood in Durgapur and Kolkata, West Bengal, India. 
 
-My research interests include online learning (especially Multi-Armed Bandit probems),  causality, learning in queueing systems, recommendation systems and social networks. I like to work on real-world problems that allow rigorous theoretical analysis.
+My research interests include online learning (especially Multi-Armed Bandit problems),  causality, learning in queueing systems, recommendation systems and social networks. I like to work on real-world problems that allow rigorous theoretical analysis. Here is my [resume](/static/pdf/FinanceCV.pdf).
