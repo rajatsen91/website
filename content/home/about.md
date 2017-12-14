@@ -20,7 +20,7 @@ weight = 1
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Currently Pursuing PhD in Machine Learning"
-  institution = "The University of Texas ast Austin"
+  institution = "The University of Texas at Austin"
   year = 2018
 
 [[education.courses]]
@@ -33,8 +33,12 @@ weight = 1
 
 # Biography
 
-I am a 4th year PhD. student in WNCG, UT Austin. I am advised by [Dr. Sanjay Shakkottai](http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html). 
+I am a 5th year PhD. student in WNCG, UT Austin. I am advised by [Dr. Sanjay Shakkottai](http://users.ece.utexas.edu/~shakkott/Sanjay_Shakkottai/Contact.html). At UT Austin, I have also had the pleasure of working with [Dr. Alex Dimakis](http://users.ece.utexas.edu/~dimakis/).
 
-I received my Bachelors degree in ECE, IIT Kharagpur in 2013.  I have spent most of my childhood in Durgapur and Kolkata, West Bengal, India. 
+I received my Bachelors degree in ECE, IIT Kharagpur in 2013. I have spent most of my childhood in Durgapur and Kolkata, West Bengal, India.
 
-My research interests include online learning (especially Multi-Armed Bandit problems),  causality, learning in queueing systems, recommendation systems and social networks. I like to work on real-world problems that allow rigorous theoretical analysis. Here is my [resume](/static/pdf/FinanceCV.pdf).
+My research interests include online learning (especially Multi-Armed Bandit problems), causality, learning in queueing systems, recommendation systems and social networks. I like to work on real-world problems that allow rigorous theoretical analysis.
+
+Here is my [resume](/pdf/rsenCV.pdf).
+
+
