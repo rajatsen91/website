@@ -13,7 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Online Learning and Bandit Problems",
-    "Statistical Teting",
+    "Statistical Testing",
     "Causality",
     "Deep Learning"
   ]
@@ -39,7 +39,7 @@ I am a 5th year PhD. student in WNCG, UT Austin. I am advised by [Dr. Sanjay Sha
 
 I received my Bachelors degree in ECE, IIT Kharagpur in 2013. I have spent most of my childhood in Durgapur and Kolkata, West Bengal, India.
 
-Over the course of my PhD,  I have been lucky to work with excellent [collaborators](https://scholar.google.com/citations?user=YzsCLBoAAAAJ&hl=en) on a variety of problems in the areas of bandit problems [[A](https://rajatsen91.github.io/publication/stochexp/),[B](https://rajatsen91.github.io/publication/impband/),[C](https://rajatsen91.github.io/publication/latentcontextual/)], statistical testing [[A](https://rajatsen91.github.io/publication/modelpowered/),[B](https://rajatsen91.github.io/publication/detspon/),[C](https://rajatsen91.github.io/publication/mimic/)] black-box optimization with applications to hyper-parameter tuning [[A](https://rajatsen91.github.io/publication/mcts1/)], queuing systems with learnable parameters [[A](https://rajatsen91.github.io/publication/queregret/)] and GANs [[A](https://rajatsen91.github.io/publication/igan/)]. Here is my [resume](/pdf/rsenCV.pdf).
+Over the course of my PhD,  I have been lucky to work with excellent [collaborators](https://scholar.google.com/citations?user=YzsCLBoAAAAJ&hl=en) on a variety of problems in the areas of bandit problems [[A](https://rajatsen91.github.io/publication/stochexp/),[B](https://rajatsen91.github.io/publication/impband/),[C](https://rajatsen91.github.io/publication/latentcontextual/)], statistical testing [[A](https://rajatsen91.github.io/publication/modelpowered/),[B](https://rajatsen91.github.io/publication/detspon/),[C](https://rajatsen91.github.io/publication/mimic/)], black-box optimization with applications to hyper-parameter tuning [[A](https://rajatsen91.github.io/publication/mcts1/)], queuing systems with learnable parameters [[A](https://rajatsen91.github.io/publication/queregret/)] and GANs [[A](https://rajatsen91.github.io/publication/igan/)]. Here is my [resume](/pdf/rsenCV.pdf).
 
 * <sup> <span style="color:blue">[News] </span> </sup> I am having a great time this summer as an applied scientist intern at A9 (Amazon) under the guidance of [Dr. Inderjit Dhillon](https://www.cs.utexas.edu/~inderjit/).
 * <sup> <span style="color:blue">[News] </span> </sup> New [paper](https://rajatsen91.github.io/publication/mimic/) up on arxiv, where we propose a flexible frame-work for Conditional Independence testing which can make use of modern techniques like GANs and powerful regressors. 
