@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
   organization_url = ""
   avatar = "portrait.jpg"
   email = "rajat.sen@utexas.edu"
-  address = "1616 Guadalupe Street, UTA Building, UT Austin, Texas, 78701, USA"
+  address = "EER Building, UT Austin, Texas, 78705, USA"
   #math = true
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -154,10 +154,9 @@ defaultContentLanguageInSubdir = false
   url = "#publications"
   weight = 2
 
-
 #[[menu.main]]
-  #name = "Projects"
-  #url = "#projects"
+  #name = "News"
+  #url = "#news"
   #weight = 4
 
 #[[menu.main]]
